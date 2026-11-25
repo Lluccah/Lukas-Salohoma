@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luca Salohoma!
 
-### Aspiring Cybersecurity Analyst | Logistics & Procurement Professional | Python & Linux Enthusiast
+### Transitioning Cybersecurity Analyst | Logistics & Procurement Professional | Python & Linux Enthusiast
 
 Welcome to my GitHub profile!
 
